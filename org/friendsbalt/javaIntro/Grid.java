@@ -70,7 +70,7 @@ public abstract class Grid {
 	********************************************************************************/
 	public Grid (int xdim, int ydim, int res) {
 		
-		this.entries = entries;
+		//this.entries = entries;
 		
 		X_DIM = xdim;
 		Y_DIM = ydim;
